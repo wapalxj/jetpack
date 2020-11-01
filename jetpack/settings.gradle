@@ -1,0 +1,8 @@
+rootProject.name='jetpack'
+include ':app'
+include ':navigation'
+include ':navigation2_self'
+include ':libnavannotation'
+include ':libnavcompiler'
+include ':libnetwork'
+include ':libcommon'
